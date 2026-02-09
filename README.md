@@ -28,6 +28,8 @@
 
 PIN по умолчанию: 44
 
+<img width="1021" height="451" alt="изображение" src="https://github.com/user-attachments/assets/88f38a4d-84be-422a-86a3-556c70ee89d7" />
+<img width="1109" height="629" alt="изображение" src="https://github.com/user-attachments/assets/65313c76-4917-4ba5-94c7-2af05458b6bf" />
 
 ---
 
@@ -41,8 +43,10 @@ pip install -r requirements.txt
 
 python main.py
 
-<img width="1021" height="451" alt="изображение" src="https://github.com/user-attachments/assets/88f38a4d-84be-422a-86a3-556c70ee89d7" />
-<img width="1109" height="629" alt="изображение" src="https://github.com/user-attachments/assets/65313c76-4917-4ba5-94c7-2af05458b6bf" />
+
+
+
+
 
 
 
